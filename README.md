@@ -19,4 +19,7 @@ It is also possible to call the program without a cmd window opening by changing
 
 
 ### Prerequesites
-The package_list.txt file contains all packages installed into the working environment and which versions are used. The key libraries are sched, time, and win10toast.
+The package_list.txt file contains all packages installed into the working environment and which versions are used. The key libraries are:
+* sched
+* time
+* win10toast
